@@ -10,27 +10,7 @@
 #include <stdio.h>
 #include <limits.h>
 
-#ifdef RCJJ_VEGA
-#include "AIP/AIP.h"
-#include "AIP/General.h"
-#include "AIP/MyVector.h"
-#include "AIP/Timer.h"
 
-#include "Input/Ball.h"
-#include "Input/GAM.h"
-#include "Input/Input.h"
-#include "Input/Line.h"
-#include "Input/MySwitch.h"
-
-#include "Output/Motor.h"
-#include "Output/Other.h"
-#include "Output/Output.h"
-
-#include "Process/Attack.h"
-#include "Process/Defense.h"
-#include "Process/Process.h"
-#include "Process/Test.h"
-#endif
 
 
 
